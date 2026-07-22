@@ -30,7 +30,7 @@ const mehdi = {
     aiTools: "Working with AI Tools"
   },
   launchedProjects: [], // 🚧 nothing shipped yet — stay tuned
-  certifications: [],
+  certifications: [Google AI Professional Certificate],
   status: "Learning, building, and leveling up in AI 🚀",
   openTo: ["Internships", "Junior/Entry-level Roles", "Collaborations"]
 };
